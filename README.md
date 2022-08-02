@@ -3,6 +3,6 @@
 
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp8583820.jpg" width="200" height="100"/>
+  <img src="https://wallpapercave.com/wp/wp8583820.jpg" width="190" height="100"/>
 </p>
 
